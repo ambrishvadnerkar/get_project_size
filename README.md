@@ -1,0 +1,2 @@
+This is the shell/bash script get size of all project folder under the given path and email all those list to specified email address.
+This script intended to run regularly as a cron to get project size regularly.
